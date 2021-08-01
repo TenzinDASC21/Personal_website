@@ -1,0 +1,47 @@
+body{
+    background-color: rgb(156, 156, 156);
+}
+
+#big_div{
+    display: flex;
+    justify-content: space-between;
+}
+
+#title{
+    font-family: "Times New Roman";
+    color:rgb(87, 9, 9);
+    font-size: 50px;
+}
+
+div{
+    font-family: "Times New Roman";
+    color:rgb(87, 9, 9);
+    font-size: 30px;
+}
+.items:hover {
+    background-color: gray;
+    opacity: 0.5;
+}
+a{
+    font-family: "Times New Roman";
+    font-size: 30px;
+    text-align: center;
+}
+#portfolio{
+    font-family: "Times New Roman";
+    color:rgb(87, 9, 9);
+    font-size: 30px;
+    text-align: center;
+}
+img{
+    width:800px;
+}
+#bar{
+    width:850px;
+    height:100px;
+}
+
+#pika{
+    width:800px;
+    height:900px;
+}
